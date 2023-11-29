@@ -154,3 +154,9 @@ main {
 .task .actions .delete {
 	color: crimson;
 }
+
+.check{
+	background :white;
+	width:12px;
+	height:12px;
+}
